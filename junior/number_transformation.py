@@ -30,7 +30,7 @@ def number_transformation(n, p, d):
         str_n_right = str_n[i+1:]
         str_n_ans = str_n[:i] + str(pth_new) + ('0' * len(str_n_right))
 
-    return str_n_ans
+    return int(str_n_ans)
 
 # Tests
 def test_number_transformation():
@@ -47,7 +47,7 @@ def test_number_transformation():
                 ]
     for test_input, answer in test_data:
         testlist = test_input.split(' ')
-        assert number_transformation(*testlist), answer
+        assert number_transformation(*testlist) == answer
 
 # Main
 if __name__ == "__main__":
