@@ -12,6 +12,12 @@ The problem is defined in [this document](http://www.datafiles.acsl.org/samples/
 
 You will be asked to enter the values of N, P and D, in that order.
 
+## Junior Division - String Stats
+
+The problem is defined in [this document](http://www.datafiles.acsl.org/samples/contest2/c2-jr-prog.pdf).
+
+    python string_stats.py
+
 ## Intermediate Division - Number Transform
 
 The problem is defined in [this document](http://www.datafiles.acsl.org/samples/contest1/C_1_INT_Transform.pdf).
