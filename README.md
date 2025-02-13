@@ -1,8 +1,27 @@
 # ACSL: Python solutions
 
-To run these programs, you will need Python 3.5 and above. This has been tested on Python 3.7 and 3.8.
+To run these programs, you will need Python 3.6 and above. This has been tested on Python 3.6 through 3.13.
 
 These solutions include test cases.
+
+
+## Blog Posts on ArulJohn.com
+
+These are blog posts about how to solve each of these questions, plus the Python code itself along with the algorithms and Python tips.
+
+### ACSL Junior and Intermediate Division Blog Posts
+
+- [ACSL Junior Duplicates Problem](https://aruljohn.com/blog/acsl-duplicates/)
+- [ACSL Junior Strings and Things Problem](https://aruljohn.com/blog/acsl-strings-and-things/)
+- [ACSL Junior Asterisks Problem](https://aruljohn.com/blog/acsl-asterisks/)
+- [ACSL Junior Wrap Around Code Problem](https://aruljohn.com/blog/acsl-wrap-around-code/)
+- [ACSL Junior Numble Problem](https://aruljohn.com/blog/acsl-numble/)
+- [ACSL Junior Finals Run-Length Encoding Problem](https://aruljohn.com/blog/acsl-finals-run-length-encoding/)
+- [ACSL String Stats Problem](https://aruljohn.com/blog/acsl-string-stats/)
+- [ACSL Intermediate Number Transformation Problem](https://aruljohn.com/blog/acsl-number-transformation/)
+
+
+## Previous content in README 👇
 
 ## Junior Division - Number Transformation
 
