@@ -18,7 +18,9 @@ These are blog posts about how to solve each of these questions, plus the Python
 - [ACSL Junior Numble Problem](https://aruljohn.com/blog/acsl-numble/)
 - [ACSL Junior Finals Run-Length Encoding Problem](https://aruljohn.com/blog/acsl-finals-run-length-encoding/)
 - [ACSL String Stats Problem](https://aruljohn.com/blog/acsl-string-stats/)
+- [ACSL Junior Strings and Things Problem](https://aruljohn.com/blog/acsl-strings-and-things/)
 - [ACSL Intermediate Number Transformation Problem](https://aruljohn.com/blog/acsl-number-transformation/)
+- [ACSL Intermediate wrap Around Code Problem](https://aruljohn.com/blog/acsl-intermediate-wrap-around-code/)
 
 
 ## Previous content in README 👇
